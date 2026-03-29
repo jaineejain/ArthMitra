@@ -1,0 +1,26 @@
+[
+  {
+    "id": "tax_new_regime_2425",
+    "title": "India FY 2024-25 New Tax Regime (simplified)",
+    "text": "Standard deduction under new regime is typically ₹75,000 for salaried. Slabs are progressive from 0% up to 30% above ₹15 lakh taxable income. Old vs new regime choice depends on deductions like 80C, HRA, home loan interest. Always compare both with actual numbers.",
+    "tags": ["tax", "itr", "slab", "india"]
+  },
+  {
+    "id": "emergency_fund_rule",
+    "title": "Emergency fund guideline",
+    "text": "Salaried households often target 3-6 months of essential expenses in liquid assets (sweep FD, liquid funds). Self-employed may need 6-12 months. Credit card debt should not replace emergency savings.",
+    "tags": ["emergency", "liquidity", "planning"]
+  },
+  {
+    "id": "sip_basics",
+    "title": "SIP and compounding",
+    "text": "SIP (Systematic Investment Plan) averages purchase price over time (rupee cost averaging). Long-term equity returns are uncertain; use realistic assumptions (e.g. 10-12% illustrative) only for planning, not guarantees.",
+    "tags": ["sip", "mutual fund", "equity"]
+  },
+  {
+    "id": "term_insurance",
+    "title": "Term insurance (India context)",
+    "text": "Human Life Value heuristic: often 10-15x annual income as sum assured starting point, adjusted for liabilities and goals. Pure term plans are for protection; avoid mixing with investment unless you understand costs.",
+    "tags": ["insurance", "term", "protection"]
+  }
+]
